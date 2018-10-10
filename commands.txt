@@ -1,0 +1,13 @@
+open Git Bash
+
+ls
+cd C:\Codes
+
+git init
+git remote add origin https://github.com/SubramanyaReddi/html.git
+git remote -v 
+git add . 
+git commit -m "First commit" 
+git push origin master
+
+git help
