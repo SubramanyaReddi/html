@@ -1,2 +1,2 @@
 # html
-HTNML Teaching with examples
+HTML Teaching with examples
